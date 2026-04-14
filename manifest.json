@@ -1,0 +1,13 @@
+{
+  "lastUpdated": 1744664400000,
+  "skills": [
+    {
+      "skillId": "pptx-deck-builder",
+      "name": "pptx-deck-builder",
+      "description": "Builds branded performance presentation decks (.pptx) from a user-provided PowerPoint template. The skill extracts the template's exact visual chrome (header/footer bar images, background images, fonts, colors, slide dimensions) and builds fresh data-filled slides that match the brand perfectly. Use this skill whenever the user wants to: create a performance deck or report from their own .pptx template, build slides from Intentwise account data or a CSV file, generate KPI scorecards / trend charts / data tables / insight slides in a branded format, or says anything like \"use my template\", \"build a deck\", \"create slides\", \"make a report\", \"build a presentation\" with a .pptx file involved. Trigger even if the user only mentions a template file path without explicitly saying \"skill\".",
+      "creatorType": "user",
+      "updatedAt": "2026-04-14T21:00:00.000000Z",
+      "enabled": true
+    }
+  ]
+}
