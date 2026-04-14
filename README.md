@@ -23,7 +23,14 @@ Give Claude a `.pptx` template and tell it what data to include. The skill:
 
 ## Installation
 
-Install via Claude Code:
+**Via the Claude Code marketplace** (recommended):
+
+```
+/plugin marketplace add kenton-web/ppt-template-builder
+/plugin install pptx-deck-builder@ppt-template-builder
+```
+
+**Direct install:**
 
 ```
 /install-plugin https://github.com/kenton-web/ppt-template-builder

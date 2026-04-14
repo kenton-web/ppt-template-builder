@@ -1,0 +1,21 @@
+{
+  "name": "ppt-template-builder",
+  "owner": {
+    "name": "kenton-web"
+  },
+  "plugins": [
+    {
+      "name": "pptx-deck-builder",
+      "source": "./skills/pptx-deck-builder",
+      "version": "1.0.0",
+      "description": "Build branded performance presentation decks (.pptx) from any PowerPoint template. Extracts the template's exact visual chrome and builds fresh data-filled slides — KPI scorecards, trend charts, tables, and insights — that match the brand perfectly.",
+      "author": "kenton-web",
+      "homepage": "https://github.com/kenton-web/ppt-template-builder",
+      "repository": "https://github.com/kenton-web/ppt-template-builder",
+      "license": "MIT",
+      "keywords": ["pptx", "powerpoint", "presentation", "slides", "deck", "report", "amazon", "advertising", "performance"],
+      "category": "productivity",
+      "tags": ["presentations", "reporting", "amazon-ads", "intentwise"]
+    }
+  ]
+}
