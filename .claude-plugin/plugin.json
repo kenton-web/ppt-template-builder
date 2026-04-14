@@ -1,5 +1,12 @@
 {
   "name": "ppt-template-builder",
   "version": "1.0.0",
-  "description": "Build branded performance presentation decks from a user-provided PowerPoint template"
+  "description": "Build branded performance presentation decks (.pptx) from any PowerPoint template. Extracts the template's exact visual chrome — header/footer bar images, backgrounds, fonts, colors — and builds fresh data-filled slides that match the brand perfectly. Supports KPI scorecards, trend charts, data tables, section dividers, and insights slides. Works with live Intentwise advertising data or any CSV upload.",
+  "author": "kenton-web",
+  "homepage": "https://github.com/kenton-web/ppt-template-builder",
+  "repository": "https://github.com/kenton-web/ppt-template-builder",
+  "license": "MIT",
+  "categories": ["productivity", "reporting", "presentations"],
+  "keywords": ["pptx", "powerpoint", "presentation", "slides", "deck", "report", "amazon", "advertising", "performance", "kpi", "intentwise"],
+  "tags": ["presentations", "reporting", "amazon-ads", "intentwise", "pptx-builder"]
 }
